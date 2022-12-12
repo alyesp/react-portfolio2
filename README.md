@@ -6,6 +6,7 @@
 - [Screenshots](#screenshots)
 - [Installation](intallation)
 - [GitHub Link](#github-link)
+- [Heroku Link](#heroku-link)
 
 ### Description 
 This is a very minimalist react portfolio. That have a main page, resume portfolio, and a contact page where an employer or anyone can reach out and contact me directly.
@@ -26,3 +27,6 @@ This is a very minimalist react portfolio. That have a main page, resume portfol
 
 #### GitHub Link: 
 [Github](https://github.com/alyesp/react-portfolio2)
+
+#### Heroku Link
+[Heroku](https://safe-fortress-47520.herokuapp.com/#home)
